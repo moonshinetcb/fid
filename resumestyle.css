@@ -24,4 +24,20 @@ body {
    font-family: Nunito
 }
 
-<link href="https://fonts.google.com/specimen/Anek+Devanagari" rel="stylesheet">
+a {
+  text-decoration: none;
+}
+a:link {
+           color: #FB4B4E;
+}
+a:visited {
+	color: #7C0B2B;
+}
+a:focus, a:hover {
+	color: #FB4B4E;
+	background-color: ##FF0000;
+}
+a:active {
+	color: #DC0408;
+	background-color: #8C0305;
+}
